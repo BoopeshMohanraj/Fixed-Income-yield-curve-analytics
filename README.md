@@ -2,7 +2,7 @@
 
 A multi-model yield curve engine in Python: Nelson-Siegel static fitting, a Vasicek three-factor model estimated with a Kalman filter, GARCH-based bond VaR, and LSTM/VAR forecast comparisons. Built on twenty years of live FRED Treasury and macro data, and validated against the 2022 Fed hiking cycle.
 
-*Boopesh Mohanraj · MS Engineering Management, Northeastern University*
+*Boopesh Mohanraj*
 
 ---
 
@@ -138,4 +138,4 @@ Stated plainly:
 
 ---
 
-*Part of a six-project quantitative finance portfolio. Data from the FRED API. Research and educational project, not investment advice.*
+*Data from the FRED API*
